@@ -87,10 +87,7 @@ Verze 0.4.0. *Ukázková data. Dietní pravidla jsou ukázka, ne lékařské dop
 
 **3D svět v Godotu s režisérem kamery, který si sám natočí video**
 
-<!-- VIDEO: tenhle obrázek nahradit videem. V editoru README na GitHubu přetáhnout
-     soubor video-k-nahrani/s-dum-tour-720p.mp4 sem; GitHub vloží řádek
-     https://github.com/user-attachments/assets/... a ten se zobrazí jako přehrávač. -->
-<img src="img/s-dum-tour-poster.png" width="760" alt="Obchodní velín ve 3D světě: tři velká plátna, stůl s monitory a robotický asistent">
+<img src="img/virtualni-dum-ukazka.webp" width="760" alt="Animovaná ukázka z prohlídky 3D světa: kuchyň, lednice, obchodní velín a vizualizace tickových dat">
 
 Svět v Godotu, kterým se dá procházet: vzorový dům s kuchyní, terasou a bazénem
 a obchodní velín, na jehož obrazovkách běží vizualizace tickových dat z TickForge,
@@ -106,7 +103,7 @@ mé datové vrstvy pro ticková data napsané v Zigu.
   knihy a obrazovky, které se po přiblížení přepnou do čitelného 2D detailu.
 
 `Godot 3.6` · `GDScript` · `Python` · `ffmpeg`<br>
-*56sekundová prohlídka, celá vyrenderovaná Studiem2.*
+*Ukázka z 56sekundové prohlídky, kterou celou vyrenderovalo Studio2.* [Stáhnout celé video (MP4, 9 MB)](https://github.com/vskupina/vskupina/releases/download/video-prohlidka/virtualni-dum-prohlidka.mp4)
 
 ### 3D galerie
 
