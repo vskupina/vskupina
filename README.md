@@ -127,3 +127,5 @@ v první osobě po výstavní hale.
 `Godot 3.6` · `GDScript` · `Python`<br>
 *Kamera a rozvržení vycházejí z dema Material Testers pro Godot. Modely na screenshotu
 patří jejich autorům.*
+
+<img src="https://profil.vskupina.workers.dev/p/github.gif" width="1" height="1" alt="">
